@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bean-core" />
+        <module name="boot-auto" />
+        <module name="boot-config" />
+        <module name="boot-enable" />
+        <module name="boot-quickstart" />
+        <module name="config-core" />
+        <module name="config-core1" />
+        <module name="spring4-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bean-core" target="1.8" />
+      <module name="boot-auto" target="1.8" />
+      <module name="boot-condition-config" target="1.8" />
+      <module name="boot-config" target="1.8" />
+      <module name="boot-enable" target="1.8" />
+      <module name="boot-quickstart" target="1.8" />
+      <module name="config-core" target="1.8" />
+      <module name="config-core1" target="1.8" />
+      <module name="spring4-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

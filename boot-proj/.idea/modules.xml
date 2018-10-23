@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bean-core/bean-core.iml" filepath="$PROJECT_DIR$/bean-core/bean-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-auto/boot-auto.iml" filepath="$PROJECT_DIR$/boot-auto/boot-auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-config/boot-config.iml" filepath="$PROJECT_DIR$/boot-config/boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-enable/boot-enable.iml" filepath="$PROJECT_DIR$/boot-enable/boot-enable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-quickstart/boot-quickstart.iml" filepath="$PROJECT_DIR$/boot-quickstart/boot-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-core/config-core.iml" filepath="$PROJECT_DIR$/config-core/config-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-core1/config-core1.iml" filepath="$PROJECT_DIR$/config-core1/config-core1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4-demo/spring4-demo.iml" filepath="$PROJECT_DIR$/spring4-demo/spring4-demo.iml" />
+    </modules>
+  </component>
+</project>
