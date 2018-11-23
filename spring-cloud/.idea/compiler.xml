@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-provider" />
         <module name="micro-consumer" />
         <module name="micro-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-provider" target="1.8" />
       <module name="micro-consumer" target="1.8" />
       <module name="micro-provider" target="1.8" />
     </bytecodeTargetLevel>
